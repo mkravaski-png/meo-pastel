@@ -1,0 +1,5 @@
+{
+  "name": "MEO PASTEL - Monte seu Pastel",
+  "description": "App de pedidos para pastelaria com montagem personalizada de 3 recheios e precificação baseada no ingrediente de maior valor.",
+  "requestFramePermissions": []
+}
